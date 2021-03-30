@@ -1,4 +1,4 @@
-# Hi, I'm Dini Adiarnita 👋
+# Hi, I'm Dini Adiarnita you can call me Dini 👋
 
 
 🌱 Nowadays i spend my times learning Frontend and Scrum Framework.
